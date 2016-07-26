@@ -1,4 +1,5 @@
-Copyright (c) <2015>, Nakhyun Jeon(nakhyun.jeon@gmail.com)
+Copyright (c) <2015>, [YSS Lab.](https://en.wikipedia.org/wiki/Yi_Sun-sin
+)(nakhyun.jeon@gmail.com, eunckck@gmail.com)
 
 THE SOJU LICENSE
 
